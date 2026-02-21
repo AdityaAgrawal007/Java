@@ -1,0 +1,2 @@
+1. Types of references in Java
+2. Garbage collection
