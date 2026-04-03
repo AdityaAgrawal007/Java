@@ -1,4 +1,5 @@
-// this class is used to carry data from say client to server, to db etc ... 
+// this class is used to carry data from say client to server, to db etc ...
+// record dev(int id, String name){}; is equivavalant  to below
 class dev{
 	// variables that hold data = state
 	private final int id;
