@@ -1,0 +1,5 @@
+1. Types of references in Java
+2. Garbage collection
+3. Interfaces - default/static methods, functional interfaces, private methods, extending interfaces
+4. Factory Method Degsin Pattern in Java
+5. DEgsin Patterns in java

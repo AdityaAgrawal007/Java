@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/Wrapper Classes/Autoboxing.java" />
+      <file url="file://$PROJECT_DIR$/binding/dynamic_binding.java" />
+      <file url="file://$PROJECT_DIR$/enum/EnumConstructor.java" />
+      <file url="file://$PROJECT_DIR$/obj_lifecycle/File1.java" />
+      <file url="file://$PROJECT_DIR$/packages/HelpReciever.java" />
+      <file url="file://$PROJECT_DIR$/typecasting/ExplicitDowncasting.java" />
+      <file url="file://$PROJECT_DIR$/DesignPatterns/FunctionalProgramming/functionalInterface.java" />
+    </excludeFromCompile>
+  </component>
+</project>

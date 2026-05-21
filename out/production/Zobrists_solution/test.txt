@@ -1,0 +1,13 @@
+current feature just tells randomized
+study half life of lithium and how it affetc battry life
+how much time will the battry work 
+project is for ev's 
+li battry from ev vehicles 
+if we only study the temprature - how temp is affecting battry, why battry range shows one and is another 
+external forces affetcing battry, wiring system, if cheap wire used then battry life gets degraded etc other stuff used in cirtuit
+what device to make to make sure battry is safe to use ?
+suggestions from app based on how user is useing vehicle to increase battry life 
+is major life from transmission from battry to tyre vehicles 
+work on diffrent battryies
+ai based stamped alerting from drones 
+nare rangan (semiconductor )khotrud(semiconductor) hindewadi pahse 1, 2 (software)can mou sign internship industry rpject placemtn

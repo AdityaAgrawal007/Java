@@ -1,0 +1,2 @@
+1. in java we need to put () after each function call even if the function does not take arguments 
+
