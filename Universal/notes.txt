@@ -1,0 +1,18 @@
+jit (just in time compiler) part of jre - compiles code on the fly and when it encounters a hot path
+(i.e. path that is being frequently used) it stores the exe in memory and reuses it, so after some time 
+it can achieve the speed and performance of a compiler while maintaining the flexibility of an interpreter
+
+jre java runtime envirenment 
+
+pure interpreter - converts code to machine code and executes it so the conversion, execution of
+the program happen parallely, does not do linking and loading, slow cause converts and runs line by line
+errors are shown at runtime 
+
+ahead of time compiler - translates hll to machine code, the place where the compiler sees function 
+calls to library functions say ex: printf it just leaves it as a placeholder (i.e. to be resolved later on)
+then the linker links togther this stuff so if there is a function call in a library then it will go 
+to the library, take the pre-compiled code from the library of that specific function and place it 
+in the placeholder, it also links togther multiple say .c files into a single .o file, the loader then 
+loads it in the memory and finally  it's executed 
+
+langs like java use a hybrid approach where a .class is produced which runs of a jvm 
